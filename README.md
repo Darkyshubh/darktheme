@@ -7,7 +7,7 @@
 * `git clone https://github.com/Dark-X369/DARK-X`
 * `cd DARK-X`
 * `chmod +x *`
-* `sh install.sh`
+* `bash install.sh`
 * `exit`
   
 
