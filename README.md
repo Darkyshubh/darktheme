@@ -1,4 +1,4 @@
-** INSTALLATION [TERMUX] :
+## INSTALLATION [TERMUX] :
                               
 * `apt update`
 * `apt install git -y`
@@ -11,7 +11,7 @@
 * `exit`
   
 
-** REMOVE COMMAND :
+## REMOVE COMMAND :
 
 * `cd DARK-X`
 * `bash rvt.sh`
